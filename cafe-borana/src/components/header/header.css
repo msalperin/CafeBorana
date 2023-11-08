@@ -1,0 +1,23 @@
+.pre-head {
+   background-color: #EB7D34;
+   color: white;
+   text-align: center;
+   padding: 0.5%;
+}
+
+.header-conteiner {
+   background-color: black;
+   width: 100%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}
+
+.navbar-conteiner {
+   color: white;
+   font-weight: bold;
+}
+
+.navbar-conteiner ul {
+   list-style: none;
+}
