@@ -1,3 +1,11 @@
+header {
+   font-size: 14px;
+}
+
+/* header button {
+
+} */
+
 .pre-head {
    background-color: #EB7D34;
    color: white;
@@ -9,15 +17,61 @@
    background-color: black;
    width: 100%;
    display: flex;
-   flex-direction: row;
-   justify-content: space-around;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   border: 1px solid salmon;
+}
+
+.head-logo{
+   border: 1px solid salmon;
+   margin-left: 2%;
 }
 
 .navbar-conteiner {
    color: white;
    font-weight: bold;
+   border: 1px solid salmon;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   width: 25%;   
+   margin-right: 2%;
 }
 
 .navbar-conteiner ul {
-   list-style: none;
+   border: 1px solid salmon;
+   list-style: none; 
+   display: flex;
+   justify-content: flex-end;
+
+   width: 100%;
+}
+
+.navbar-conteiner ul li {
+   border: 1px solid salmon;   
+   margin: auto;
+}
+
+/* slider */
+
+.slider-conteiner {
+   background-image: url("../../assets/fondo.png");
+   background-color: rgba(0, 0, 0, 0.7);
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.slider-logo { 
+    width: 25%; 
+} 
+
+.slider-slogan {
+   width: 25%;
+   margin-top: -25px;
+   margin-bottom: 3%;
 }

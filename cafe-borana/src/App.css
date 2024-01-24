@@ -7,11 +7,21 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;400&family=Roboto:wght@300;400;500;700&display=swap');
 
-body {
+body  {
   font-family: 'Roboto', sans-serif;
-  font-size: 12;
+  font-size: 12px;
   font-weight: 500;
   color: black;
 }
 
 /* color: #EB7D34 */
+
+button {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  background-color: #EB7D34;
+  color: white;
+  padding: 10px;
+  border-radius: 15%;
+}
