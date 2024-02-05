@@ -1,2 +1,7 @@
 
 - mobile version header
+   --> ver nav acordeon
+- why choose card
+   --> ver flechitas en mov version
+
+-- shop

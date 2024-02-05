@@ -1,0 +1,49 @@
+
+
+.whyChoose-conteiner {
+    background-color: #F1F1F1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.whyChoose-conteiner h2 {
+    margin-top: 5%;
+}
+
+.whyChoose-card-conteiner{
+    margin-top: 5%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid salmon;
+}
+
+.whyChoose-card {
+    background-color: #D9D9D9;
+    width: 30%;
+    height: 40vh;
+    margin-bottom: 10%;
+
+    border-radius: 10%;
+    border: 1px solid salmon;
+}
+
+.whyChoose-card img{
+    background-color: black;
+    width: 25%;
+    border-radius: 100%;
+    padding: 10px;
+    position: relative;
+    bottom: 30px;
+}
+
+.whyChoose-card h3 {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    margin-bottom: 15%;
+}

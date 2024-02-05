@@ -1,0 +1,36 @@
+.shop-conteiner {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+        
+}
+
+.shop-conteiner img {
+    width: 50%;
+}
+
+.shop-enter-conteiner {
+    width: 50%;
+    background-image: url("../../assets/coffeebeans.png");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.shop-enter {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 90%;
+    height: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid salmon;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
