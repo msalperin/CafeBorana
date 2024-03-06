@@ -1,0 +1,69 @@
+img {
+    width: 100%;
+}
+
+.footer-conteiner-size {
+  background-color: black;
+  width: 100% ;
+  margin-top: -10px;
+}
+
+.footer-conteiner {
+    width: 90%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    margin: auto;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid salmon;  
+
+}
+
+.footer-logo-conteiner {
+    width: 30%;  
+    margin-left: 0px;
+    border: 1px solid salmon;  
+}
+
+.footer-logo-conteiner img {
+    width: 80%;
+    margin-left: -12px;
+    border: 1px solid salmon;
+}
+
+.footer-logo-redes img {
+    width: 20%;
+    margin-left: 10px;
+}
+
+
+.footer-menu {
+   border: 1px solid salmon;
+   margin-top: 25px;
+   width: 20%;
+}
+
+.footer-menu ul {
+    list-style: none;  
+    margin-top: 5%;  
+}
+
+.footer-menu li {
+    margin-top: 4%;
+}
+
+
+.footer-contact {
+    width: 20%;
+    margin-top: 25px;
+}
+
+.footer-contact ul {
+    list-style: none;  
+    margin-top: 5%; 
+}
+.footer-contact li {
+    margin-top: 4%;
+}

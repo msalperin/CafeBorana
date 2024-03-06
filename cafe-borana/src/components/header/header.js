@@ -3,6 +3,7 @@ import './header.css';
 import logo from '../../assets/boranahorizontal.png';
 import logoBanner from '../../assets/boranaverticalblanco.png';
 import tostadoresdecafe from '../../assets/tostadoresdecafe.png';
+/* import DropdownMenu from "./Dropdown"; */
 
 const Header = () => {
 
@@ -23,6 +24,7 @@ const Header = () => {
                         <li>CONTACTO</li>
                         <li><button>TIENDA</button></li>
                      </ul>
+
                </navbar>
                
         </div>

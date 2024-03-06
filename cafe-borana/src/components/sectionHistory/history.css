@@ -1,0 +1,32 @@
+
+
+.history-conteiner {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid salmon;
+    margin: auto;
+
+}
+
+
+.history-info-conteiner{
+    width: 50%;
+    text-align: center;
+}
+
+.history-photo-conteiner{
+    text-align: center;
+    width: 30%;
+}
+
+.history-photo-conteiner img {
+    width: 70%;
+}
+
+.history-info-conteiner h3 {
+    text-align: left;
+}

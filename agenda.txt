@@ -4,4 +4,8 @@
 - why choose card
    --> ver flechitas en mov version
 
--- shop
+-- shop ok
+
+05/02
+
+Version mobile hasta shop
